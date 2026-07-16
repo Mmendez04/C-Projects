@@ -50,12 +50,13 @@ Key concepts:
 - User input
 - Variables
 - Conditional logic
-- Calculations
-  
+- Calculations  
 Technical Skills Demonstrated
 - C#
 - .NET
 - Object-Oriented Programming
+
+  
 - Problem-Solving
 - Console Application Development
 - Programming Fundamentals
